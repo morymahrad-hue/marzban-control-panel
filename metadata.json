@@ -1,0 +1,6 @@
+{
+  "name": "Marzban Control Panel",
+  "description": "Web management console for connecting to and managing external Marzban proxy servers, users, nodes, inbounds, and Xray core configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
